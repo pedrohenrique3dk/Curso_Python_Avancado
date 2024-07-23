@@ -1,14 +1,31 @@
-for i in range(10):
-    if i == 2:
-        print('i é 2, pulando...')
+frase = 'O python é uma linguagem de programação'\
+'multiparadigma.'\
+'Python foi criado por Guido van Rossum.'
+
+i = 0
+qtd_apareceu_mais_vezes = 0
+letra_apareceu_mais_vezes = ''
+
+while i < len(frase):
+    letra_atual = frase[i]
+
+    if letra_atual == ' ':
+        i += 1
         continue
 
-    if i == 8:
-        print('i é 8, seu else não executará')
-        break
+    quantas_vezes_letra_apareceu = frase.count(letra_atual)
 
-    for j in range(1, 3):
-        print(i, j)
-else:
-    print('for completo com sucesso!')
+    if qtd_apareceu_mais_vezes <= quantas_vezes_letra_apareceu:
+        qtd_apareceu_mais_vezes += quantas_vezes_letra_apareceu
+        letra_apareceu_mais_vezes = letra_atual
+    i += 1  
 
+print(f'A letra que apareceu mais vezes foi "{letra_apareceu_mais_vezes}" que apareceu {qtd_apareceu_mais_vezes}x')
+
+
+   
+
+
+
+
+    
