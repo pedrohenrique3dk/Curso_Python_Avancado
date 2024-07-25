@@ -1,4 +1,4 @@
-|🐍🐍🐍🐍🐍🐍🐍 PROJETOS FEITOS NO CURSO DE PYTHON COMPLETO 🐍🐍🐍🐍🐍🐍🐍🐍|
+|🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍 PROJETOS FEITOS NO CURSO DE PYTHON COMPLETO 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍|
 |------------------------------------------------------------------------------|
 
 ---
