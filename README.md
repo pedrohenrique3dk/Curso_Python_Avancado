@@ -17,26 +17,28 @@
 </div>
 
 
-https://github.com/user-attachments/assets/4b27d96d-b5d3-4593-a363-d6662de7ce63
-
-
-
-
-https://github.com/user-attachments/assets/478bea93-3f5a-498c-85f2-7901456dbaf1
-
-
 ---
 
-|1° PROJETO: Projeto simples de criação de um formulário com interação entre PHP e HTML e estilizado em CSS. O projeto consiste em solicitar o nome e sobrenome do usuário e usando PHP imprimir na interface o nome que foi redigido no formulário.|
+<div align='center'>
+  
+🔵<i> PROJETO GERADOR DE CPF </i>🟡
+
+
+|O Projeto 'Gerador de CPF' consiste em criar um programa que consiga gerar aleatóriamente um CPF válido de acordo com o cálculo que é feito pela própria receita federal ao gerar um novo CPF. No video usamos um site que faz validação de CPF para mostrar que os CPF's gerados pelo programa feito nesse projeto sõ considerados verdadeiros, ou seja, válidados para uso.|
 |-------------------------------------------------------|
 
+</div>
+<div align='center'>
+  
 |  CÓDIGO DO PROJETO |
 |---------------------------------------------|
-|<img src="https://github.com/user-attachments/assets/29e95474-9df0-4a12-86c9-efa8ba07569f" alt = "codigo" width="600" height="280">|
+|<img src="https://github.com/user-attachments/assets/29e95474-9df0-4a12-86c9-efa8ba07569f" alt = "codigo" width="900" height="480">|
 
 |APRESENTAÇÃO DO PROJETO |
 --------------------------------------------------|
-|<video src="https://github.com/user-attachments/assets/d8c95e64-7635-4cb0-a2ad-0fe435b762d5">|
+|<video src="https://github.com/user-attachments/assets/4b27d96d-b5d3-4593-a363-d6662de7ce63">|
+
+</div>
 
 
 
