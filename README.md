@@ -1,9 +1,16 @@
+<div align='center'>
+
 |🐍🐍🐍🐍🐍🐍🐍🐍🐍 PROJETOS FEITOS NO CURSO DE PYTHON COMPLETO 🐍🐍🐍🐍🐍🐍🐍🐍🐍|
 |------------------------------------------------------------------------------|
 
+</div>
+
 ---
 
+
+
 <div align='center'>
+
 
 |<img src="https://github.com/user-attachments/assets/c4f12b04-89a5-4289-b482-883fad7925fe" alt = "codigo" width="800" height="280">|
 |----------------------------------|
