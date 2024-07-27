@@ -40,7 +40,8 @@
 
 |  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<a href="https://github.com/pedrohenrique3dk/Curso_Python_Avancado/blob/main/Projetos/Gerador_CPF.py"><img src="https://github.com/user-attachments/assets/473658f3-1894-4988-894e-76edb831e267" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://youtu.be/o24l8UWm4xo"><img src="https://github.com/user-attachments/assets/ee29bc82-37b9-4090-951a-c5153521876a" alt = "codigo" width="400" height="250" max-width=100%></a>|
+|<a href="https://github.com/pedrohenrique3dk/Curso_Python_Avancado/blob/main/Projetos/Gerador_CPF.py"><img src="https://github.com/user-attachments/assets/a9e09ad6-eaa8-420e-a8b1-7ae31454af3e" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://youtu.be/o24l8UWm4xo"><img src="https://github.com/user-attachments/assets/ee29bc82-37b9-4090-951a-c5153521876a" alt = "codigo" width="400" height="250" max-width=100%></a>|
+
 
 
 </div>
