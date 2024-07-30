@@ -1,6 +1,8 @@
+
+
 <div align='center'>
 
-|🐍🐍🐍🐍🐍🐍🐍🐍🐍 PROJETOS FEITOS NO CURSO DE PYTHON COMPLETO 🐍🐍🐍🐍🐍🐍🐍🐍🐍|
+| 🐍 PROJETOS FEITOS NO CURSO DE PYTHON COMPLETO 🐍|
 |------------------------------------------------------------------------------|
 
 </div>
@@ -19,8 +21,14 @@
 
 ---
 
+⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique na IMAGEM na caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
+
+⚠️ AVISO 2: Se quiser ver o funcionamento do projeto em vídeo clique no GIF na caixa APRESENTAÇÃO DO PROJETO e você será redirecionado para o vídeo de uma breve apresentação do projeto que está postado no youtube.
+
+---
+
 <div align='center'>
-  
+
 🔵<i> PROJETO GERADOR DE CPF </i>🟡
 
 
@@ -29,16 +37,15 @@
 
 </div>
 <div align='center'>
-  
-|  CÓDIGO DO PROJETO |
-|---------------------------------------------|
-|<img src="https://github.com/user-attachments/assets/29e95474-9df0-4a12-86c9-efa8ba07569f" alt = "codigo" width="900" height="480">|
 
-|APRESENTAÇÃO DO PROJETO |
---------------------------------------------------|
-|<video src="https://github.com/user-attachments/assets/4b27d96d-b5d3-4593-a363-d6662de7ce63">|
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+|<a href="https://github.com/pedrohenrique3dk/Curso_Python_Avancado/blob/main/Projetos/Gerador_CPF.py"><img src="https://github.com/user-attachments/assets/e136678d-fcfb-45e4-8abc-5e0065a9927b" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://youtu.be/o24l8UWm4xo"><img src="https://github.com/user-attachments/assets/ee29bc82-37b9-4090-951a-c5153521876a" alt = "codigo" width="400" height="250" max-width=100%></a>|
+
 
 </div>
+
+
 
 
 
