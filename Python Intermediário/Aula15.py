@@ -38,9 +38,9 @@ for i in range(len(perguntas)):
             if resposta.isnumeric():
                 resposta = int(resposta)
                 if resposta == 4:
-                    print("=======================================")
+                    print("=================================================")
                     print("Meus parabéns!! 🥳🥳🥳 Você acertou..  👏👏👏")
-                    print("=======================================")
+                    print("=================================================")
                     print("\n")
                     acertos += 1
                 else:
@@ -65,9 +65,9 @@ for i in range(len(perguntas)):
             if resposta.isnumeric():
                 resposta = int(resposta)
                 if resposta == 25:
-                    print("=======================================")
+                    print("=================================================")
                     print("Meus parabéns!! 🥳🥳🥳 Você acertou..  👏👏👏")
-                    print("=======================================")
+                    print("=================================================")
                     print("\n")
                     acertos += 1
                 else:
@@ -92,9 +92,9 @@ for i in range(len(perguntas)):
             if resposta.isnumeric():
                 resposta = int(resposta)
                 if resposta == 5:
-                    print("=======================================")
+                    print("=================================================")
                     print("Meus parabéns!! 🥳🥳🥳 Você acertou..  👏👏👏")
-                    print("=======================================")
+                    print("=================================================")
                     print("\n")
                     acertos += 1
                 else:
