@@ -26,15 +26,41 @@
 
 ---
 
-<div align='center'>
-
-<img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><i> PROJETO GERADOR DE CPF </i><img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
-|O Projeto 'Gerador de CPF' consiste em criar um programa que consiga gerar aleatóriamente um CPF válido de acordo com o cálculo que é feito pela própria receita federal ao gerar um novo CPF. No video, através de um site que faz validação de CPF, podemos ver que os CPF's gerados pelo programa feito nesse projeto são considerados verdadeiros, ou seja, válidados para uso.|
-|-------------------------------------------------------|
+ ## Projeto Gerador de CPF  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
+O Projeto 'Gerador de CPF' consiste em criar um programa que consiga gerar aleatóriamente um CPF válido de acordo com o cálculo que é feito pela própria receita federal ao gerar um novo CPF. No video, através de um site que faz validação de CPF, podemos ver que os CPF's gerados pelo programa feito nesse projeto são considerados verdadeiros, ou seja, válidados para uso.|
+
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>Python:</strong> Como é um projeto back-end este projeto usa python em toda a sua estruturação. 
+
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. Copie, cole no seu IDE em algum arquivo .py e comece a gerar seus próprios CPF's
+
+```bash
+Codigo https://github.com/pedrohenrique3dk/Curso_Python_Avancado/blob/main/Projetos/Gerador_CPF.py
+```
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Prém saiba que ele está em construção 🛠️
+
+```bash
+git clone https://github.com/pedrohenrique3dk/Curso_Python_Avancado.git
+```
 
 </div>
+
+
+
 <div align='center'>
 
 |  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
