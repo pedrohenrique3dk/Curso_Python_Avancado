@@ -20,7 +20,7 @@
 
 ---
 
-⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique na IMAGEM na caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
+⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique no GIF na caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
 
 ⚠️ AVISO 2: Se quiser ver o funcionamento do projeto em vídeo clique no GIF na caixa APRESENTAÇÃO DO PROJETO e você será redirecionado para o vídeo de uma breve apresentação do projeto que está postado no youtube.
 
