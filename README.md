@@ -31,7 +31,7 @@
 <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><i> PROJETO GERADOR DE CPF </i><img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
-|O Projeto 'Gerador de CPF' consiste em criar um programa que consiga gerar aleatóriamente um CPF válido de acordo com o cálculo que é feito pela própria receita federal ao gerar um novo CPF. No video usamos um site que faz validação de CPF para mostrar que os CPF's gerados pelo programa feito nesse projeto são considerados verdadeiros, ou seja, válidados para uso.|
+|O Projeto 'Gerador de CPF' consiste em criar um programa que consiga gerar aleatóriamente um CPF válido de acordo com o cálculo que é feito pela própria receita federal ao gerar um novo CPF. No video, através de um site que faz validação de CPF, podemos ver que os CPF's gerados pelo programa feito nesse projeto são considerados verdadeiros, ou seja, válidados para uso.|
 |-------------------------------------------------------|
 
 </div>
