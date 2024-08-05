@@ -54,7 +54,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 ## Como Utilizar 🚀
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 >[!TIP]
->Copie o código, crie um arquivo.py e cole o código para começar a gerar seus próprios CPF's
+>Copie o código, crie um arquivo.py no seu IDE e cole o código para começar a gerar seus próprios CPF's
 
 
 ```bash
