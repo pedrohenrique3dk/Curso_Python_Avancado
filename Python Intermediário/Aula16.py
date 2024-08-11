@@ -56,6 +56,7 @@ erros = 0
 
 for i in range(len(perguntas)):
     if perguntas[i]['id'] == i:
+        print("\n")
         print(f'{perguntas[i]['Pergunta']}: ')
         print("\n")
         for j, opcao in enumerate(perguntas[i]['Opções']):
