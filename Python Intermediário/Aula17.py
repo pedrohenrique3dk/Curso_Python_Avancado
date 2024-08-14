@@ -10,9 +10,7 @@
 # s1 = set() set vazio
 # s1 = set = {'Luiz', 1, 2, 3} set com dados
 
-
-
-
+#só funciona para valores multaveis
 
 # Sets são eficientes para remover valores duplicados
 # de iteráveis.
@@ -21,6 +19,15 @@
 # - não tem índexes;
 # - não garantem ordem;
 # - são iteráveis (for, in, not in)
+
+l1 = [1, 2, 3, 3, 3, 3, 3, 1]
+s1 = set(l1)
+l2 = list(s1)
+print(l2)
+
+s2 = {1, 2, 4, 5, 6}
+for numero in s2:
+    print(numero)
 
 # Métodos úteis:
 # add, update, clear, discard
