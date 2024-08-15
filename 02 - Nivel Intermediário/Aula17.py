@@ -5,10 +5,10 @@
 # Sets em Python são mutáveis, porém aceitam apenas
 # tipos imutáveis como valor interno.
 # Criando um set
-# set(iterável) ou {1, 2, 3}
-# s1 = set('Luiz')
-# s1 = set() set vazio
-# s1 = set = {'Luiz', 1, 2, 3} set com dados
+
+s1 = set('Luiz')
+s1 = set()
+s1 = set = {'Luiz', 1, 2, 3} 
 
 #só funciona para valores multaveis
 
@@ -31,9 +31,24 @@ for numero in s2:
 
 # Métodos úteis:
 # add, update, clear, discard
+s3 = set()
+s3.add('Luiz')
+s3.update(('Olá Mundo!', 1, 2, 3, 4))
+# s3.clear()
+s3.discard('Olá Mundo!')
+print(s3)
+
 
 # Operadores úteis:
 # união | união (union) - Une
 # intersecção & (intersection) - Itens presentes em ambos
 # diferença - Itens presentes apenas no set da esquerda
 # diferença simétrica ^ - Itens que não estão em ambos
+
+s1 = {1, 2, 3}
+s2 = {2, 3, 4}
+s3 = s1 | s2
+s3 = s1 & s2
+s3 = s1 - s2
+s3 = s1 ^ s2 #itens que não estão em ambos
+print(s3)
